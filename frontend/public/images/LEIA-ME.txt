@@ -1,0 +1,16 @@
+COMO USAR SUA IMAGEM COMO LOGO
+================================
+
+1. Coloque sua imagem de logo nesta pasta (public/images/)
+2. Nome do arquivo: logo.jpg
+   - Se sua imagem for PNG, renomeie para logo.png
+   - Formatos aceitos: .jpg, .jpeg, .png, .webp
+
+3. O logo aparecerá automaticamente no header do site
+
+IMPORTANTE:
+- A imagem será exibida como um círculo
+- Tamanho recomendado: mínimo 200x200 pixels
+- Para melhor resultado, use uma imagem quadrada
+
+Se a imagem não existir, aparecerá um ícone "M" como fallback.

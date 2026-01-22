@@ -1,0 +1,44 @@
+{
+  "header": {
+    "logo": {
+      "name": "Filipi B.Oliveira",
+      "subtitle": "My Skills"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+  "home": {
+    "title": "Welcome to my website!",
+    "subtitle": "Web Development",
+    "description": "Creating modern and professional digital experiences",
+    "cta": "Learn more about me →"
+  },
+  "about": {
+    "title": "About",
+    "highlight": "Me",
+    "paragraph1": "Hello! I'm a web developer passionate about creating modern and efficient digital solutions. I have experience with the latest technologies in the market.",
+    "paragraph2": "I specialize in frontend development, creating intuitive and responsive interfaces that provide excellent user experiences."
+  },
+  "projects": {
+    "title": "My",
+    "highlight": "Projects",
+    "project": "Project",
+    "description": "Brief description of the project developed with modern technologies."
+  },
+  "contact": {
+    "title": "Get in",
+    "highlight": "Contact",
+    "description": "I'm always open to new projects and collaboration opportunities",
+    "linkedin": "LinkedIn"
+  },
+  "tech": {
+    "nextjs": "Next.js",
+    "react": "React",
+    "typescript": "TypeScript",
+    "tailwind": "Tailwind"
+  }
+}
